@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="27.1.3">
   <diagram name="Page-1" id="cZF3mMxlLTOcjOuMbeVQ">
-    <mxGraphModel dx="830" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,10 @@
         <mxCell id="4komPlg7KYt_dlNRVas5-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4komPlg7KYt_dlNRVas5-72" target="4komPlg7KYt_dlNRVas5-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="610" />
+              <mxPoint x="360" y="610" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4komPlg7KYt_dlNRVas5-72" value="Mot de passe oublié ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -135,7 +139,7 @@
           <mxGeometry x="200" y="420" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4komPlg7KYt_dlNRVas5-82" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="300" y="600" width="50" height="30" as="geometry" />
+          <mxGeometry x="290" y="580" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4komPlg7KYt_dlNRVas5-83" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" parent="1" target="4komPlg7KYt_dlNRVas5-25" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
